@@ -1,7 +1,7 @@
-﻿namespace WishList.Controller
-{
-    using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 
+namespace WishList.Controllers
+{
     public class HomeController : Controller
     {
         public IActionResult Index()
